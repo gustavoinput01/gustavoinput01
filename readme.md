@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gustavo
 ======================================================================================================================================
 
-Curso Análise e Desenvolvimento de Software na FIAP.
+Curso Análise e Desenvolvimento de Sistemas na FIAP.
 ----------------------------------------------------
 
 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, inovação e soluções que realmente fazem a diferença.
