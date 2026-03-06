@@ -4,7 +4,9 @@
 </p>
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor apaixonado por criar soluções inteligentes, de **Chatbots** a arquiteturas robustas em **POO**. Atualmente focado em ecossistemas Cloud e desenvolvimento Full Stack.
+Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com foco em desenvolvimento **Full-Stack** e construção de soluções orientadas a negócio. enho experiência com lógica de programação, modelagem de dados, versionamento com **Git** e boas práticas de desenvolvimento.
+Meu background profissional em mercado financeiro, operações e estruturação de negócios me proporciona visão estratégica, capacidade analítica e foco em resultados, habilidades que aplico no desenvolvimento de sistemas mais eficientes e orientados a valor.
+Busco oportunidade como Desenvolvedor Júnior ou Estagiário em Tecnologia para contribuir com soluções escaláveis, aprendizado contínuo e mentalidade de crescimento.
 
 ---
 
